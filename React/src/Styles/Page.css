@@ -1,0 +1,55 @@
+.container {
+    width:100%;
+    min-height: 100%;
+    
+    text-align:center;
+  
+}
+
+
+
+.gauche {
+    float:left;;
+    
+    margin: 0px;
+    width: 50%;
+    min-height: 100%;
+    height:max-content;
+}
+
+.droite {
+
+    float: right;
+    width: 50%;
+    min-height: 100%;
+    height: auto;
+    
+   
+}
+
+#selectLeft {
+    float: left;
+    width: 30%;
+}
+
+#selectRight {
+    float: right;
+    width: 30%;
+}
+
+#txt {
+    float: left;
+    padding-left: 0%;
+    
+}
+
+#addFormationButton {
+    float: right;
+}
+
+/* #separator {
+    border-left: 3px solid black;
+    height: 500px;
+    float: inline-start;
+    width: 3%;
+  } */
