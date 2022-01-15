@@ -1,0 +1,19 @@
+ === README ===
+
+* Remplir les base de données
+
+Si vous utilisez vos propres bases de données les fichiers Create.sql et Insert.sql vous permettrons de créer et remplir les tables.
+
+Actuellement la connexion à ma base de données est présente par défaut et est fonctionnelle.
+
+
+
+Afin d'exécuter le projet il est nécessaire de se rendre dans le répertoire React et de faire la commande :
+
+	npm start
+
+Puis d'exécuter l'API dans le répertoire API à l'aide de la commande :
+
+	node index.js
+
+
